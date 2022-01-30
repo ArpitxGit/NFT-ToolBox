@@ -1,2 +1,2 @@
 # NFT-ToolBox
-NFT Lootbox with thirdweb at NFT pointer.gg
+NFT Lootbox with thirdweb at [pointer.gg](pointer.gg)
